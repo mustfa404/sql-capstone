@@ -2,7 +2,6 @@
 
 **DEPI - Databases and SQL for Data Science · Capstone Mini-Project**
 Domain: E-commerce logistics (**Option A - Olist**) · Target: `is_late_delivery`
-Author: Moustafa Mahmoud ([@mustfa404](https://github.com/mustfa404))
 
 A SQL-first pipeline that turns the raw Olist relational database (with real-world defects) into a
 clean, leakage-aware **Feature Store** for predicting whether an order will arrive after its
